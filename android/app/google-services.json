@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "3055486212",
+    "firebase_url": "https://afm-app-dc429.firebaseio.com",
+    "project_id": "afm-app-dc429",
+    "storage_bucket": "afm-app-dc429.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3055486212:android:4e4a8271dab14c879e7c51",
+        "android_client_info": {
+          "package_name": "com.afmnewclareapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3055486212-35tcbvid5c57a6c392tj89948t05893f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC2pXwaAOIkOovmVQw3B6dRbQDxUTrVxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3055486212-35tcbvid5c57a6c392tj89948t05893f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
